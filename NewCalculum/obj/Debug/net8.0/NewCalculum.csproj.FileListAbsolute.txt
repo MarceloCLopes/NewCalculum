@@ -1,0 +1,14 @@
+/home/marcelo/Documentos/dotnet/NewCalculum/NewCalculum/bin/Debug/net8.0/NewCalculum
+/home/marcelo/Documentos/dotnet/NewCalculum/NewCalculum/bin/Debug/net8.0/NewCalculum.deps.json
+/home/marcelo/Documentos/dotnet/NewCalculum/NewCalculum/bin/Debug/net8.0/NewCalculum.runtimeconfig.json
+/home/marcelo/Documentos/dotnet/NewCalculum/NewCalculum/bin/Debug/net8.0/NewCalculum.dll
+/home/marcelo/Documentos/dotnet/NewCalculum/NewCalculum/bin/Debug/net8.0/NewCalculum.pdb
+/home/marcelo/Documentos/dotnet/NewCalculum/NewCalculum/obj/Debug/net8.0/NewCalculum.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcelo/Documentos/dotnet/NewCalculum/NewCalculum/obj/Debug/net8.0/NewCalculum.AssemblyInfoInputs.cache
+/home/marcelo/Documentos/dotnet/NewCalculum/NewCalculum/obj/Debug/net8.0/NewCalculum.AssemblyInfo.cs
+/home/marcelo/Documentos/dotnet/NewCalculum/NewCalculum/obj/Debug/net8.0/NewCalculum.csproj.CoreCompileInputs.cache
+/home/marcelo/Documentos/dotnet/NewCalculum/NewCalculum/obj/Debug/net8.0/NewCalculum.dll
+/home/marcelo/Documentos/dotnet/NewCalculum/NewCalculum/obj/Debug/net8.0/refint/NewCalculum.dll
+/home/marcelo/Documentos/dotnet/NewCalculum/NewCalculum/obj/Debug/net8.0/NewCalculum.pdb
+/home/marcelo/Documentos/dotnet/NewCalculum/NewCalculum/obj/Debug/net8.0/NewCalculum.genruntimeconfig.cache
+/home/marcelo/Documentos/dotnet/NewCalculum/NewCalculum/obj/Debug/net8.0/ref/NewCalculum.dll

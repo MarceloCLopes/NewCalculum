@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marc0\\source\\repos\\NewCalculum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{847699AF-6A76-432A-99D2-B6BF6B895F0F}|NewCalculum\\NewCalculum.csproj|c:\\users\\marc0\\source\\repos\\newcalculum\\newcalculum\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847699AF-6A76-432A-99D2-B6BF6B895F0F}|NewCalculum\\NewCalculum.csproj|solutionrelative:newcalculum\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847699AF-6A76-432A-99D2-B6BF6B895F0F}|NewCalculum\\NewCalculum.csproj|c:\\users\\marc0\\source\\repos\\newcalculum\\newcalculum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847699AF-6A76-432A-99D2-B6BF6B895F0F}|NewCalculum\\NewCalculum.csproj|solutionrelative:newcalculum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597906C7-F041-49DC-A9F7-1A053A798FDE}|NewCalculumTest\\NewCalculumTest.csproj|c:\\users\\marc0\\source\\repos\\newcalculum\\newcalculumtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597906C7-F041-49DC-A9F7-1A053A798FDE}|NewCalculumTest\\NewCalculumTest.csproj|solutionrelative:newcalculumtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\marc0\\source\\repos\\NewCalculum\\NewCalculum\\Calculadora.cs",
+              "RelativeDocumentMoniker": "NewCalculum\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\marc0\\source\\repos\\NewCalculum\\NewCalculum\\Calculadora.cs",
+              "RelativeToolTip": "NewCalculum\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:37:13.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\marc0\\source\\repos\\NewCalculum\\NewCalculumTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "NewCalculumTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\marc0\\source\\repos\\NewCalculum\\NewCalculumTest\\UnitTest1.cs",
+              "RelativeToolTip": "NewCalculumTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:34:15.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marc0\\source\\repos\\NewCalculum\\NewCalculum\\Program.cs",
+              "RelativeDocumentMoniker": "NewCalculum\\Program.cs",
+              "ToolTip": "C:\\Users\\marc0\\source\\repos\\NewCalculum\\NewCalculum\\Program.cs",
+              "RelativeToolTip": "NewCalculum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:22:24.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
